@@ -22,7 +22,7 @@
    ```
 2. For windows & Unix
    ```bash
-   go build
+   go mod vendor
    go run .
    ```
    
