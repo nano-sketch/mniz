@@ -33,5 +33,5 @@
    ```
  You also need go v1.19 or higher
 
- ### you may contribute to my project at your own will, note: this project is incomplete and it is recommended to write the disassm using capstone framework https://github.com/knightsc/gapstone as writing a native disassm would be an issue. The code edit is also for loading the disassembled file but i could not implement yet. Will be adding future updates..
+ ### you may contribute to my project at your own will, note: this project is incomplete and it is recommended to write the disassm using gapstone framework https://github.com/knightsc/gapstone as writing a native disassm would be an issue. The code edit is also for loading the disassembled file but i could not implement yet. Will be adding future updates..
    
